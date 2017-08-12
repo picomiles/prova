@@ -1,0 +1,587 @@
+{
+displayFieldName: "GeogAreaName",
+-fieldAliases: {
+EntityCod: "EntityCod",
+AccomDesc: "AccomDesc",
+Tipology: "Tipology",
+Classification: "Classification",
+Address: "Address",
+GeogAreaName: "GeogAreaName",
+Website: "Website",
+E_Mail: "E_Mail",
+Tel: "Tel",
+ESRI_OID: "ESRI_OID"
+},
+geometryType: "esriGeometryPoint",
+-spatialReference: {
+wkid: 4326,
+latestWkid: 4326
+},
+-fields: (10)[
+-{
+name: "EntityCod",
+type: "esriFieldTypeString",
+alias: "EntityCod",
+length: 50
+},
+-{
+name: "AccomDesc",
+type: "esriFieldTypeString",
+alias: "AccomDesc",
+length: 150
+},
+-{
+name: "Tipology",
+type: "esriFieldTypeString",
+alias: "Tipology",
+length: 255
+},
+-{
+name: "Classification",
+type: "esriFieldTypeString",
+alias: "Classification",
+length: 50
+},
+-{
+name: "Address",
+type: "esriFieldTypeString",
+alias: "Address",
+length: 462
+},
+-{
+name: "GeogAreaName",
+type: "esriFieldTypeString",
+alias: "GeogAreaName",
+length: 50
+},
+-{
+name: "Website",
+type: "esriFieldTypeString",
+alias: "Website",
+length: 2147483647
+},
+-{
+name: "E_Mail",
+type: "esriFieldTypeString",
+alias: "E_Mail",
+length: 255
+},
+-{
+name: "Tel",
+type: "esriFieldTypeString",
+alias: "Tel",
+length: 30
+},
+-{
+name: "ESRI_OID",
+type: "esriFieldTypeOID",
+alias: "ESRI_OID"
+}
+],
+-features: (28)[
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05563",
+AccomDesc: "Villaggio Simenzaru",
+Tipology: "Villaggi Turistici",
+Classification: "2 Stelle",
+Address: "Contrada Galice 2",
+GeogAreaName: "Patti",
+Website: "",
+E_Mail: "info@nuovovillaggiosimenzaru.it",
+Tel: "09411900161",
+ESRI_OID: 3249
+},
+-geometry: {
+x: 15.008677500000033,
+y: 38.14693760000006
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03634",
+AccomDesc: "MEDIMARE RESIDENCE CLUB",
+Tipology: "Residenze Turistico Alberghiere",
+Classification: "3 Stelle",
+Address: "Via LOCOGRANDE 67",
+GeogAreaName: "Patti",
+Website: http://www.medimareclub.it,
+E_Mail: "info@medimareclub.it",
+Tel: "0941317093",
+ESRI_OID: 4800
+},
+-geometry: {
+x: 15.001378000000045,
+y: 38.145043000000044
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03624",
+AccomDesc: "CANAPE' APPARTAMENTI",
+Tipology: "Case e Appartamenti per Vacanze",
+Classification: "1 Stella",
+Address: "Via TRIESTE 53",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "casavacanzecanape@gmail.com",
+Tel: "3467541669",
+ESRI_OID: 4791
+},
+-geometry: {
+x: 14.971321400000022,
+y: 38.141210400000034
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03629",
+AccomDesc: "ST.MICHELE",
+Tipology: "Bed & Breakfast",
+Classification: "2 Stelle",
+Address: "Via Largo Arcangelo 2",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "concyf79@yahoo.it",
+Tel: "0941362227",
+ESRI_OID: 4796
+},
+-geometry: {
+x: 14.963947000000076,
+y: 38.140851000000055
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03714",
+AccomDesc: "B & B IL COLIBRI'",
+Tipology: "Bed & Breakfast",
+Classification: "2 Stelle",
+Address: "Via Fratelli Cervi 26",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: null,
+Tel: null,
+ESRI_OID: 4853
+},
+-geometry: {
+x: 14.970619000000056,
+y: 38.14670400000006
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05395",
+AccomDesc: "La Casa Del Priore Agriturismo",
+Tipology: "Agriturismo",
+Classification: "3 Spighe",
+Address: "Via San Giovanni 93",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@lacasadelpriore.it",
+Tel: "0941241058",
+ESRI_OID: 3162
+},
+-geometry: {
+x: 14.977145000000064,
+y: 38.13703300000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05460",
+AccomDesc: "LA COLLINA DEGLI ULIVI",
+Tipology: "Agriturismo",
+Classification: "3 Spighe",
+Address: "Contrada Moreri Soprani 57",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "antobe@tiscali.it",
+Tel: "094181190",
+ESRI_OID: 3184
+},
+-geometry: {
+x: 14.967859300000043,
+y: 38.14322640000006
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05533",
+AccomDesc: "Antica Tindari",
+Tipology: "Agriturismo",
+Classification: "4 Spighe",
+Address: "Contrada Moreri Soprani s.n.c.",
+GeogAreaName: "Patti",
+Website: "",
+E_Mail: "info@anticatindari.it",
+Tel: "0941317202",
+ESRI_OID: 3231
+},
+-geometry: {
+x: 15.009901900000045,
+y: 38.12228250000004
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03619",
+AccomDesc: "LA PLAYA",
+Tipology: "Hotel",
+Classification: "3 Stelle",
+Address: "Via Playa 3",
+GeogAreaName: "Patti",
+Website: "",
+E_Mail: "info@laplaya-hotel.it",
+Tel: "0941361398",
+ESRI_OID: 4786
+},
+-geometry: {
+x: 14.980981300000053,
+y: 38.14965930000005
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03650",
+AccomDesc: "NUOVO HOTEL MARCONI",
+Tipology: "Hotel",
+Classification: "4 Stelle",
+Address: "Piazza MARCONI 6",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@nmarconi.it",
+Tel: "094121112",
+ESRI_OID: 4808
+},
+-geometry: {
+x: 14.96618060000003,
+y: 38.13842520000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03651",
+AccomDesc: "Arte&Mare",
+Tipology: "Bed & Breakfast",
+Classification: "2 Stelle",
+Address: "Via XX Settembre 55/57",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "artemarepatti@gmail.com",
+Tel: "3477040907",
+ESRI_OID: 4809
+},
+-geometry: {
+x: 14.966609000000062,
+y: 38.13747200000006
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03653",
+AccomDesc: "VILLA ZIA FEBRONIA B&B",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Contrada PRATO 8/D",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "sfazio@alice.it",
+Tel: "094122787",
+ESRI_OID: 4811
+},
+-geometry: {
+x: 14.967139600000053,
+y: 38.13381020000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03655",
+AccomDesc: "B&B SCIARAMMOLA",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Contrada SCARPIGLIA 44/A",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@sciarammola.it",
+Tel: "0941249908",
+ESRI_OID: 4813
+},
+-geometry: {
+x: 14.990580000000023,
+y: 38.10088100000007
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03719",
+AccomDesc: "B & B Laghetti di Marinello",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Via Via del Sole 3",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "salvatore.minolfi@alice.it",
+Tel: "0941313897",
+ESRI_OID: 4858
+},
+-geometry: {
+x: 15.061187000000075,
+y: 38.12374200000005
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03722",
+AccomDesc: "PALAZZO SCIACCA B&B",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Via C. COLOMBO 123",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@palazzosciacca.net",
+Tel: "0941368535",
+ESRI_OID: 4861
+},
+-geometry: {
+x: 14.967396000000065,
+y: 38.152815900000064
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-04749",
+AccomDesc: "TIMETO RESORT",
+Tipology: "Hotel",
+Classification: "4 Stelle",
+Address: "Contrada San Cosimo sn",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "timetosalute@legalmail.it",
+Tel: "0941240021",
+ESRI_OID: 5609
+},
+-geometry: {
+x: 14.966624000000024,
+y: 38.13862290000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05486",
+AccomDesc: "Villaggio Marinello",
+Tipology: "Villaggi Turistici",
+Classification: "2 Stelle",
+Address: "Via del sole 17",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "villaggiomarinello@gmail.com",
+Tel: "0941313000",
+ESRI_OID: 3202
+},
+-geometry: {
+x: 15.061653100000058,
+y: 38.12353790000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05489",
+AccomDesc: "hotel Villa Romana",
+Tipology: "Hotel",
+Classification: "2 Stelle",
+Address: "Via Playa 13",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "sdonzi@hotmail.com",
+Tel: "0941361268",
+ESRI_OID: 3204
+},
+-geometry: {
+x: 14.991894200000047,
+y: 38.14891840000007
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-04403",
+AccomDesc: "Azienda Agriturismo Porticella",
+Tipology: "Agriturismo",
+Classification: "3 Spighe",
+Address: "Contrada Porticella 21",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@agriturismoporticella.it",
+Tel: "0941240040",
+ESRI_OID: 5447
+},
+-geometry: {
+x: 14.966624000000024,
+y: 38.13862290000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-07319",
+AccomDesc: "Terre Di Eolo",
+Tipology: "Hotel",
+Classification: "4 Stelle",
+Address: "Via Nazionale SS113 sn",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@terredieolo.it",
+Tel: "0941317707",
+ESRI_OID: 6111
+},
+-geometry: {
+x: 14.993340919000048,
+y: 38.13885894100008
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03710",
+AccomDesc: "XENIA B&B",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Via CATANIA C/DA SAN SALVATORE 10",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "xeniapatti@gmail.com",
+Tel: "3381484035",
+ESRI_OID: 4850
+},
+-geometry: {
+x: 14.966624000000024,
+y: 38.13862290000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03842",
+AccomDesc: "Park Philip Hotel",
+Tipology: "Hotel",
+Classification: "3 Stelle",
+Address: "Via F. Zuccarello 57",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@parkphiliphotel.it",
+Tel: "0941368723",
+ESRI_OID: 4944
+},
+-geometry: {
+x: 14.969805800000074,
+y: 38.15203920000005
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03844",
+AccomDesc: "Turismo Rurale VILLA RICA",
+Tipology: "Agriturismo",
+Classification: "1 Spiga",
+Address: "Contrada Mortizzi sn",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@villarica.it",
+Tel: "0941240877",
+ESRI_OID: 4945
+},
+-geometry: {
+x: 14.966624000000024,
+y: 38.13862290000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03846",
+AccomDesc: "Le Fornaci Affittacamere",
+Tipology: "Affittacamere",
+Classification: "2 Stelle",
+Address: "Via Luca Della Robbia 53",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@lefornacipatti.com",
+Tel: "0941361317",
+ESRI_OID: 4946
+},
+-geometry: {
+x: 14.969785000000059,
+y: 38.15127200000006
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03686",
+AccomDesc: "B & B ROCCA SUL TINDARI",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Via Piano Vastelli sn",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "vincenzo.degaetano@hotmail.it",
+Tel: "",
+ESRI_OID: 4837
+},
+-geometry: {
+x: 14.966624000000024,
+y: 38.13862290000003
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-03692",
+AccomDesc: "B & B CASA RUBES",
+Tipology: "Bed & Breakfast",
+Classification: "3 Stelle",
+Address: "Via Arimondi 2",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "casarubes@gmail.com",
+Tel: "094121648",
+ESRI_OID: 4841
+},
+-geometry: {
+x: 14.963853400000062,
+y: 38.137419600000044
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-04047",
+AccomDesc: "Hotel Sacra Famiglia",
+Tipology: "Hotel",
+Classification: "3 Stelle",
+Address: "Via Dante Alighieri 1",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@sacrafamiglia.it",
+Tel: "0941241622",
+ESRI_OID: 5062
+},
+-geometry: {
+x: 14.963768000000073,
+y: 38.140157000000045
+}
+},
+-{
+-attributes: {
+EntityCod: "TRS-IT-SIC-05527",
+AccomDesc: "Grotte",
+Tipology: "Hotel",
+Classification: "4 Stelle",
+Address: "Via Grotte 5",
+GeogAreaName: "Patti",
+Website: null,
+E_Mail: "info@hotelgrottepatti.it",
+Tel: "0941318497",
+ESRI_OID: 3229
+},
+-geometry: {
+x: 15.018028000000072,
+y: 38.147740000000056
+}
+}
+]
+}
