@@ -1,4 +1,4 @@
-EntityCod	AccomDesc	Tipology	Classification	Address	GeogAreaName	Website	E_Mail	Tel	ESRI_OID	x	y
+EntityCod	AccomDesc	Tipology	Classification	Address	GeogAreaName	Website	E_Mail	Tel	ESRI_OID	lat	long
 TRS-IT-SIC-05563	Villaggio Simenzaru	Villaggi Turistici	2 Stelle	Contrada Galice 2	Patti		info@nuovovillaggiosimenzaru.it	09411900161	1008	15.008677500000033	38.146937600000058
 TRS-IT-SIC-03634	MEDIMARE RESIDENCE CLUB	Residenze Turistico Alberghiere	3 Stelle	Via LOCOGRANDE 67	Patti	http://www.medimareclub.it	info@medimareclub.it	0941317093	3618	15.001378000000045	38.145043000000044
 TRS-IT-SIC-03624	CANAPE' APPARTAMENTI	Case e Appartamenti per Vacanze	1 Stella	Via TRIESTE 53	Patti	null	casavacanzecanape@gmail.com	3467541669	3608	14.971321400000022	38.141210400000034
