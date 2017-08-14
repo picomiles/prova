@@ -1,29 +1,29 @@
-EntityCod,AccomDesc,Tipology,Classification,Address,GeogAreaName,Website,E_Mail,Tel,ESRI_OID,lat,lon,
-TRS-IT-SIC-05563,Villaggio Simenzaru,Villaggi Turistici,2 Stelle,Contrada Galice 2,Patti,,info@nuovovillaggiosimenzaru.it,09411900161,1008,15.008677500000033,38.146937600000058,
-TRS-IT-SIC-03634,MEDIMARE RESIDENCE CLUB,Residenze Turistico Alberghiere,3 Stelle,Via LOCOGRANDE 67,Patti,http://www.medimareclub.it,info@medimareclub.it,0941317093,3618,15.001378000000045,38.145043000000044,
-TRS-IT-SIC-03624,CANAPE' APPARTAMENTI,Case e Appartamenti per Vacanze,1 Stella,Via TRIESTE 53,Patti,,casavacanzecanape@gmail.com,3467541669,3608,14.971321400000022,38.141210400000034,
-TRS-IT-SIC-03629,ST.MICHELE,Bed & Breakfast,2 Stelle,Via Largo Arcangelo 2,Patti,,concyf79@yahoo.it,0941362227,3613,14.963947000000076,38.140851000000055,
-TRS-IT-SIC-03714,B & B IL COLIBRI',Bed & Breakfast,2 Stelle,Via Fratelli Cervi 26,Patti,,,,3685,14.970619000000056,38.146704000000057,
-TRS-IT-SIC-05395,La Casa Del Priore Agriturismo,Agriturismo,3 Spighe,Via San Giovanni 93,Patti,,info@lacasadelpriore.it,0941241058,892,14.977145000000064,38.137033000000031,
-TRS-IT-SIC-05460,LA COLLINA DEGLI ULIVI,Agriturismo,3 Spighe,Contrada Moreri Soprani 57,Patti,,antobe@tiscali.it,094181190,925,14.967859300000043,38.14322640000006,
-TRS-IT-SIC-05533,Antica Tindari,Agriturismo,4 Spighe,Contrada Moreri Soprani snc,Patti,,info@anticatindari.it,0941317202,985,15.009901900000045,38.12228250000004,
-TRS-IT-SIC-03619,LA PLAYA,Hotel,3 Stelle,Via Playa 3,Patti,,info@laplaya-hotel.it,0941361398,3603,14.980981300000053,38.149659300000053,
-TRS-IT-SIC-03650,NUOVO HOTEL MARCONI,Hotel,4 Stelle,Piazza MARCONI 6,Patti,,info@nmarconi.it,094121112,3632,14.96618060000003,38.138425200000029,
-TRS-IT-SIC-03651,Arte&Mare,Bed & Breakfast,2 Stelle,Via XX Settembre 55/57,Patti,,artemarepatti@gmail.com,3477040907,3633,14.966609000000062,38.137472000000059,
-TRS-IT-SIC-03653,VILLA ZIA FEBRONIA B&B,Bed & Breakfast,3 Stelle,Contrada PRATO 8/D,Patti,,sfazio@alice.it,094122787,3635,14.967139600000053,38.133810200000028,
-TRS-IT-SIC-03655,B&B SCIARAMMOLA,Bed & Breakfast,3 Stelle,Contrada SCARPIGLIA 44/A,Patti,,info@sciarammola.it,0941249908,3637,14.990580000000023,38.100881000000072,
-TRS-IT-SIC-03719,B & B Laghetti di Marinello,Bed & Breakfast,3 Stelle,Via Via del Sole 3,Patti,,salvatore.minolfi@alice.it,0941313897,3690,15.061187000000075,38.12374200000005,
-TRS-IT-SIC-03722,PALAZZO SCIACCA B&B,Bed & Breakfast,3 Stelle,Via C. COLOMBO 123,Patti,,info@palazzosciacca.net,0941368535,3693,14.967396000000065,38.152815900000064,
-TRS-IT-SIC-04749,TIMETO RESORT,Hotel,4 Stelle,Contrada San Cosimo snc,Patti,,timetosalute@legalmail.it,0941240021,5020,14.966624000000024,38.13862290000003,
-TRS-IT-SIC-05486,Villaggio Marinello,Villaggi Turistici,2 Stelle,Via del Sole 17,Patti,,villaggiomarinello@gmail.com,0941313000,949,15.061653100000058,38.123537900000031,
-TRS-IT-SIC-05489,Hotel Villa Romana,Hotel,2 Stelle,Via Playa 13,Patti,,sdonzi@hotmail.com,0941361268,951,14.991894200000047,38.148918400000071,
-TRS-IT-SIC-04403,Azienda Agriturismo Porticella,Agriturismo,3 Spighe,Contrada Porticella 21,Patti,,info@agriturismoporticella.it,0941240040,4699,14.966624000000024,38.13862290000003,
-TRS-IT-SIC-07319,Terre Di Eolo,Hotel,4 Stelle,Via Nazionale SS113 sn,Patti,,info@terredieolo.it,0941317707,5978,14.993340919000048,38.13885894100008,
-TRS-IT-SIC-03710,XENIA B&B,Bed & Breakfast,3 Stelle,Via CATANIA C/DA SAN SALVATORE 10,Patti,,xeniapatti@gmail.com,3381484035,3681,14.966624000000024,38.13862290000003,
-TRS-IT-SIC-03842,Park Philip Hotel,Hotel,3 Stelle,Via F. Zuccarello 57,Patti,,info@parkphiliphotel.it,0941368723,3801,14.969805800000074,38.152039200000047,
-TRS-IT-SIC-03844,Turismo Rurale VILLA RICA,Agriturismo,1 Spiga,Contrada Mortizzi snc,Patti,,info@villarica.it,0941240877,3803,14.966624000000024,38.13862290000003,
-TRS-IT-SIC-03846,Le Fornaci Affittacamere,Affittacamere,2 Stelle,Via Luca Della Robbia 53,Patti,,info@lefornacipatti.com,0941361317,3804,14.969785000000059,38.151272000000063,
-TRS-IT-SIC-03686,B & B ROCCA SUL TINDARI,Bed & Breakfast,3 Stelle,Via Piano Vastelli snc,Patti,,vincenzo.degaetano@hotmail.it,,3661,14.966624000000024,38.13862290000003,
-TRS-IT-SIC-03692,B & B CASA RUBES,Bed & Breakfast,3 Stelle,Via Arimondi 2,Patti,,casarubes@gmail.com,094121648,3667,14.963853400000062,38.137419600000044,
-TRS-IT-SIC-04047,Hotel Sacra Famiglia,Hotel,3 Stelle,Via Dante Alighieri 1,Patti,,info@sacrafamiglia.it,0941241622,3985,14.963768000000073,38.140157000000045,
-TRS-IT-SIC-05527,Hotel Grotte,Hotel,4 Stelle,Via Grotte 5,Patti,,info@hotelgrottepatti.it,0941318497,983,15.018028000000072,38.147740000000056,
+EntityCod,AccomDesc,Tipology,Classification,Address,GeogAreaName,Website,E_Mail,Tel,ESRI_OID,lat,lon
+TRS-IT-SIC-05563,Villaggio Simenzaru,Villaggi Turistici,2 Stelle,Contrada Galice 2,Patti,,info@nuovovillaggiosimenzaru.it,09411900161,1008,15.008677500000033,38.146937600000058
+TRS-IT-SIC-03634,MEDIMARE RESIDENCE CLUB,Residenze Turistico Alberghiere,3 Stelle,Via LOCOGRANDE 67,Patti,http://www.medimareclub.it,info@medimareclub.it,0941317093,3618,15.001378000000045,38.145043000000044
+TRS-IT-SIC-03624,CANAPE' APPARTAMENTI,Case e Appartamenti per Vacanze,1 Stella,Via TRIESTE 53,Patti,,casavacanzecanape@gmail.com,3467541669,3608,14.971321400000022,38.141210400000034
+TRS-IT-SIC-03629,ST.MICHELE,Bed & Breakfast,2 Stelle,Via Largo Arcangelo 2,Patti,,concyf79@yahoo.it,0941362227,3613,14.963947000000076,38.140851000000055
+TRS-IT-SIC-03714,B & B IL COLIBRI',Bed & Breakfast,2 Stelle,Via Fratelli Cervi 26,Patti,,,,3685,14.970619000000056,38.146704000000057
+TRS-IT-SIC-05395,La Casa Del Priore Agriturismo,Agriturismo,3 Spighe,Via San Giovanni 93,Patti,,info@lacasadelpriore.it,0941241058,892,14.977145000000064,38.137033000000031
+TRS-IT-SIC-05460,LA COLLINA DEGLI ULIVI,Agriturismo,3 Spighe,Contrada Moreri Soprani 57,Patti,,antobe@tiscali.it,094181190,925,14.967859300000043,38.14322640000006
+TRS-IT-SIC-05533,Antica Tindari,Agriturismo,4 Spighe,Contrada Moreri Soprani snc,Patti,,info@anticatindari.it,0941317202,985,15.009901900000045,38.12228250000004
+TRS-IT-SIC-03619,LA PLAYA,Hotel,3 Stelle,Via Playa 3,Patti,,info@laplaya-hotel.it,0941361398,3603,14.980981300000053,38.149659300000053
+TRS-IT-SIC-03650,NUOVO HOTEL MARCONI,Hotel,4 Stelle,Piazza MARCONI 6,Patti,,info@nmarconi.it,094121112,3632,14.96618060000003,38.138425200000029
+TRS-IT-SIC-03651,Arte&Mare,Bed & Breakfast,2 Stelle,Via XX Settembre 55/57,Patti,,artemarepatti@gmail.com,3477040907,3633,14.966609000000062,38.137472000000059
+TRS-IT-SIC-03653,VILLA ZIA FEBRONIA B&B,Bed & Breakfast,3 Stelle,Contrada PRATO 8/D,Patti,,sfazio@alice.it,094122787,3635,14.967139600000053,38.133810200000028
+TRS-IT-SIC-03655,B&B SCIARAMMOLA,Bed & Breakfast,3 Stelle,Contrada SCARPIGLIA 44/A,Patti,,info@sciarammola.it,0941249908,3637,14.990580000000023,38.100881000000072
+TRS-IT-SIC-03719,B & B Laghetti di Marinello,Bed & Breakfast,3 Stelle,Via Via del Sole 3,Patti,,salvatore.minolfi@alice.it,0941313897,3690,15.061187000000075,38.12374200000005
+TRS-IT-SIC-03722,PALAZZO SCIACCA B&B,Bed & Breakfast,3 Stelle,Via C. COLOMBO 123,Patti,,info@palazzosciacca.net,0941368535,3693,14.967396000000065,38.152815900000064
+TRS-IT-SIC-04749,TIMETO RESORT,Hotel,4 Stelle,Contrada San Cosimo snc,Patti,,timetosalute@legalmail.it,0941240021,5020,14.966624000000024,38.13862290000003
+TRS-IT-SIC-05486,Villaggio Marinello,Villaggi Turistici,2 Stelle,Via del Sole 17,Patti,,villaggiomarinello@gmail.com,0941313000,949,15.061653100000058,38.123537900000031
+TRS-IT-SIC-05489,Hotel Villa Romana,Hotel,2 Stelle,Via Playa 13,Patti,,sdonzi@hotmail.com,0941361268,951,14.991894200000047,38.148918400000071
+TRS-IT-SIC-04403,Azienda Agriturismo Porticella,Agriturismo,3 Spighe,Contrada Porticella 21,Patti,,info@agriturismoporticella.it,0941240040,4699,14.966624000000024,38.13862290000003
+TRS-IT-SIC-07319,Terre Di Eolo,Hotel,4 Stelle,Via Nazionale SS113 sn,Patti,,info@terredieolo.it,0941317707,5978,14.993340919000048,38.13885894100008
+TRS-IT-SIC-03710,XENIA B&B,Bed & Breakfast,3 Stelle,Via CATANIA C/DA SAN SALVATORE 10,Patti,,xeniapatti@gmail.com,3381484035,3681,14.966624000000024,38.13862290000003
+TRS-IT-SIC-03842,Park Philip Hotel,Hotel,3 Stelle,Via F. Zuccarello 57,Patti,,info@parkphiliphotel.it,0941368723,3801,14.969805800000074,38.152039200000047
+TRS-IT-SIC-03844,Turismo Rurale VILLA RICA,Agriturismo,1 Spiga,Contrada Mortizzi snc,Patti,,info@villarica.it,0941240877,3803,14.966624000000024,38.13862290000003
+TRS-IT-SIC-03846,Le Fornaci Affittacamere,Affittacamere,2 Stelle,Via Luca Della Robbia 53,Patti,,info@lefornacipatti.com,0941361317,3804,14.969785000000059,38.151272000000063
+TRS-IT-SIC-03686,B & B ROCCA SUL TINDARI,Bed & Breakfast,3 Stelle,Via Piano Vastelli snc,Patti,,vincenzo.degaetano@hotmail.it,3661,14.966624000000024,38.13862290000003
+TRS-IT-SIC-03692,B & B CASA RUBES,Bed & Breakfast,3 Stelle,Via Arimondi 2,Patti,,casarubes@gmail.com,094121648,3667,14.963853400000062,38.137419600000044
+TRS-IT-SIC-04047,Hotel Sacra Famiglia,Hotel,3 Stelle,Via Dante Alighieri 1,Patti,,info@sacrafamiglia.it,0941241622,3985,14.963768000000073,38.140157000000045
+TRS-IT-SIC-05527,Hotel Grotte,Hotel,4 Stelle,Via Grotte 5,Patti,,info@hotelgrottepatti.it,0941318497,983,15.018028000000072,38.147740000000056
