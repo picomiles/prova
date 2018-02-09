@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Prova PDF
-[prova][github.com/SiciliaHub/odswinter17/raw/master/presentazioni/La_datificazione_degli_alert_della_protezione_civile_regionale.pdf]
+[prova][http://github.com/SiciliaHub/odswinter17/raw/master/presentazioni/La_datificazione_degli_alert_della_protezione_civile_regionale.pdf]
