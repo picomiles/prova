@@ -38,8 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Prova PDF
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
+<object data="https://github.com/SiciliaHub/odswinter17/raw/master/presentazioni/La_datificazione_degli_alert_della_protezione_civile_regionale.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/SiciliaHub/odswinter17/raw/master/presentazioni/La_datificazione_degli_alert_della_protezione_civile_regionale.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
